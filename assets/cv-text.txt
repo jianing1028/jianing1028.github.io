@@ -1,0 +1,116 @@
+PAGES 3
+
+--- PAGE 1 ---
+Ning Jia
+Fourth-year Ph.D. student
+Department of Spatial Economics, Vrije Universiteit Amsterdam
+B: n.jia@vu.nl; T: +31 651263790
+De Boelelaan 1105, 1081 HV Amsterdam, The Netherlands
+Supervisor : Jan Rouwendal, Florian Sniekers, Hans R.A. Koster
+Research Interests : Urban and Real Estate Economics
+EDUCATION
+Vrije Universiteit Amsterdam, Netherlands 09/2022 - 06/2027 (expected)
+Ph.D. student in Economics
+Shanghai Jiao Tong University, China 09/2018 - 03/2022
+Master of Economics
+Nanjing University of Aeronautics and Astronautics, China 09/2014 - 06/2018
+Bachelor of Energy and Power Engineering
+WORKING PAPER
+Borrowing Constraints and the Rise of the Private Rental Sector. Working paper. (With Jan
+Rouwendal and Florian Sniekers)
+Abstract : Over the last decade, the private rental sector has grown in many developed
+economies. We construct an assignment model in which investors convert owner-occupied
+houses to rental houses for credit-constrained households. Our model identifies credit-
+constrained households and households exposed to equilibrium spillovers of investment,
+allowing us to interpret quasi-experimental evidence as aggregate effects. We apply this
+method to a series of contractions of the mortgage payment-to-income constraint in the
+Netherlands between 2012 and 2016. We find that tighter borrowing constraints make the
+private rental sector grow, explaining up to 75 percent of the increase in the sector until
+2017.
+Presentation : UEA North American 2021; UEA European 2023; EEA-ESEM 2023; IAAE
+2024, ECHOPPE 2024, AREUEA International 2024; Federal Reserve Bank of San Francisco
+2024 ; ReCapNet 2024; Zurich-Bern Workshop 2025; ESWC 2025; AREUEA-ASSA 2026.
+List Prices in Segmented Housing Markets . Working paper. (With Jan Rouwendal and
+Florian Sniekers)
+Abstract : We study the role of list prices in frictional and segmented housing markets. Us-
+ing data from a large online housing platform in Beijing, where buyers state their preferred
+ranges for prices and housing characteristics, we show that list prices position listings into
+different buyer segments. Exploiting list price revisions in a difference-in-differences de-
+sign, we find that both downward and upward revisions attract buyers from other seg-
+ments. Downward revisions increase visitor flows persistently, leading to faster sales at
+lower prices, while upward revisions generate short-lived interest, higher sale probability,
+and higher transaction prices. We develop a search model with segmentation and time-
+consuming inspections that rationalizes these patterns and generates negative duration de-
+pendence without stigma effects.
+1
+
+--- PAGE 2 ---
+Presentation : UEA North American 2024; 2nd Chinese Summer Meeting in Urban Eco-
+nomics 2024; BVRN workshop 2025; UEA European 2026; EEA-ESEM 2026 (planned); AREUEA-
+ASSA 2027 (planned).
+Option Loss and Transaction Cascades in the Housing Market . Working paper. (With
+Ruiyu Zhu)
+Abstract : In dynamic housing markets, a sale can affect not only the transacting parties, but
+also other buyers who had considered the property. We develop a dynamic sequential search
+model in which property exit creates imperfect recall and signals tighter market conditions,
+generating transaction cascades. Using data from a major Chinese housing platform, we
+exploit quasi-random sales of previously inspected properties as option-loss shocks. Op-
+tion loss raises affected buyers’ purchase probability by 67%, with stronger effects in tighter
+markets and among buyers with larger choice sets. A back-of-the-envelope quantification
+suggests that these cascades accounts for about 30% of observed market-level transaction ac-
+tivity. Option loss also reduces the number of property visits, broadens search criteria, and is
+associated with higher transaction prices. The results highlight imperfect recall in dynamic
+search as a micro-level channel through which housing market activity can be amplified.
+Presentation : Zurich–Oxford Doctoral Symposium 2026 (planned).
+New Listings and Housing Market Congestion . Working paper. (With Jan Rouwendal )
+Abstract : The housing market is a stock-flow matching market, where new listings not only
+hold a market advantage but also affect other listings. This paper examines the impact of
+new listings on housing market dynamics, focusing on matching between houses and buy-
+ers, sale probabilities, and listing prices. Using micro-level data, we find that new listings
+significantly reduce the number of buyer visits and sale probabilities for existing properties
+within the sample building or apartment complex, with declines of approximately 28.7% to
+36.4% in visits and 17.5% to 28.1% in sale probability. However, new listings have little to no
+effect on sellers’ listing prices. We also find that new listings priced lower than existing list-
+ings generate greater congestion externalities, and the larger the number of new listings, the
+greater the congestion effect. Our study provides micro-level evidence for understanding
+how supply shocks influence dynamics in the housing market.
+Presentation : UEA European 2025.
+PRE-DOC PUBLICATION
+•Ning Jia , Huiyong Zhong. 2021. The Causes and Consequences of China’s Municipal
+Amalgamations: Evidence from Population Redistribution. China & World Economy,
+30: 174-200.
+PRESENTATIONS
+• 2027: AREUEA-ASSA Conference Washington D.C. 2027 (planned).
+• 2026: AREUEA-ASSA Conference Philadelphia; UEA European Meeting Barcelona (pre-
+sented by co-author); EEA-ESEM Dublin (planned); Zurich–Oxford Doctoral Sympo-
+sium (planned).
+2
+
+--- PAGE 3 ---
+• 2025: UEA European Meeting Berlin; BVRN Workshop Amsterdam; AREUEA Interna-
+tional Conference Barcelona; Zurich-Bern Real Estate Finance and Economics Workshop
+Zurich; Econometric Society World Congress Seoul.
+• 2024: UEA North American Meeting Washington D.C.; UEA Summer School Geneva;
+IAAE Annual Conference Xiamen; RecapNet Conference Stockholm; Federal Reserve
+Bank of San Francisco.
+• 2021: CEA Forum (Online); CCER SI Beijing, Seminar CUFE Beijing
+HONORS & PRIZES
+• First-class Scholarship for Graduate Students, Shanghai Jiao Tong University.
+• Outstanding Paper Award of the 4th Public Administration Forum in Tsinghua Univer-
+sity.
+TEACHING EXPERIENCE
+•Teaching Assistant at Shanghai Jiao Tong University
+–Chinese Economy, MBA Spring, 2019
+–Macroeconomic Analysis of China, MBA Fall, 2019
+•Teaching Assistant at VU Amsterdam
+–Real Estate Economics, Master Fall, 2025
+–Real Estate Finance and Investment, Master Spring, 2026
+•Student supervision at VU Amsterdam
+–Bachelor thesis. Spring, 2026
+OTHER RESEARCH EXPERIENCE
+• Research Assistant for Ming Lu 2018-2020
+• Research Assistant for Hans R.A. Koster 2025-2026
+CERTIFICATES & SKILLS
+•Computer Skills : STATA, ArcGIS, Python, Matlab, LaTeX
+•Languages : Chinese (Native), English (Fluent)
+3
