@@ -1,0 +1,187 @@
+body {
+  margin: 0;
+  background: #fff;
+  color: #111;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+.wrapper {
+  max-width: 880px;
+  margin: 0 auto;
+  padding: 30px 24px 42px;
+}
+
+a {
+  color: #2459a6;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+nav ul {
+  margin: 0 0 18px;
+  padding: 0;
+  list-style: none;
+}
+
+nav li {
+  display: inline-block;
+  margin-right: 26px;
+}
+
+hr {
+  height: 1px;
+  margin: 0 0 34px;
+  border: 0;
+  border-top: 1px solid #ddd;
+}
+
+h1 {
+  margin: 0 0 8px;
+  font-size: 38px;
+  line-height: 1.2;
+  font-weight: 400;
+}
+
+h2 {
+  margin: 34px 0 14px;
+  font-size: 27px;
+  line-height: 1.25;
+  font-weight: 500;
+}
+
+h3 {
+  margin: 24px 0 5px;
+  font-size: 20px;
+  line-height: 1.35;
+  font-weight: 600;
+}
+
+p {
+  margin: 0 0 13px;
+}
+
+ul {
+  margin-top: 0;
+  padding-left: 26px;
+}
+
+li {
+  margin-bottom: 7px;
+}
+
+.profile {
+  display: grid;
+  grid-template-columns: 280px minmax(0, 1fr);
+  gap: 42px;
+  align-items: start;
+  margin-bottom: 34px;
+}
+
+.portrait {
+  display: grid;
+  place-items: center;
+  width: 260px;
+  min-height: 310px;
+  border: 1px solid #ddd;
+  background: #f7f7f7;
+  color: #555;
+  font-size: 46px;
+  font-weight: 600;
+}
+
+.muted {
+  color: #555;
+}
+
+.paper {
+  margin-bottom: 30px;
+}
+
+.paper-title {
+  font-weight: 600;
+}
+
+.job-market {
+  margin: 10px 0 34px;
+  padding: 0;
+  border: 0;
+  background: transparent;
+}
+
+.job-market-layout {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 18px;
+}
+
+figure {
+  margin: 12px 0 0;
+  min-height: 420px;
+  background: #fff;
+}
+
+img {
+  display: block;
+  width: 100%;
+  min-height: 420px;
+  height: 100%;
+  object-fit: contain;
+  border: 1px solid #ddd;
+}
+
+.presentation-list {
+  padding-left: 0;
+  list-style: none;
+}
+
+.presentation-list li {
+  display: grid;
+  grid-template-columns: 64px minmax(0, 1fr);
+  gap: 16px;
+  margin-bottom: 9px;
+}
+
+.year {
+  color: #555;
+  font-weight: 600;
+}
+
+footer {
+  margin-top: 36px;
+  padding-top: 18px;
+  border-top: 1px solid #ddd;
+  color: #555;
+  font-size: 15px;
+}
+
+@media (max-width: 680px) {
+  body {
+    font-size: 17px;
+  }
+
+  .profile,
+  .job-market-layout,
+  .presentation-list li {
+    grid-template-columns: 1fr;
+  }
+
+  .portrait {
+    width: min(100%, 300px);
+    min-height: 340px;
+  }
+
+  figure,
+  img {
+    min-height: 280px;
+  }
+
+  nav li {
+    margin-right: 16px;
+    margin-bottom: 6px;
+  }
+}
